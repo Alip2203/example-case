@@ -7,15 +7,15 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'DTlpg9AAct9HfAi',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
-global.footer_text = "© " + namabot
+global.namabot = "Lipp Private"
+global.namaowner = "Alip"
+global.packname = Lipp
+global.author = Premium
+global.myweb = "https://s.id/lip.me"
+global.footer_text = "© " Alip
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
 global.owner = ['62887435047326']
@@ -25,7 +25,7 @@ global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks s
 global.prefa = ['-_-']
 global.grup_only = false //bot hanya bisa di gunakan dalam grup jika true
 global.mess = {
-    done: 'Done ✅',
+    done: 'Udah Ya✅',
     wait: '_⌛ Sedang di proses_',
     admin: '_Fitur Khusus Admin Group_',
     botNotAdmin: '_Jadikan Bot Sebagai Admin Terlebih Dahulu_',
